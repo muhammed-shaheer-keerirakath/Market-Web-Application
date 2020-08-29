@@ -3,7 +3,7 @@
 
 An example project for the Youtube tutorial([https://www.youtube.com/playlist?list=PLXKzVP4cRi8A4G6vnFB5bKpAStskhFwG0](https://www.youtube.com/playlist?list=PLXKzVP4cRi8A4G6vnFB5bKpAStskhFwG0)) creating Web Application using Angular and Express
 
-![alt text](https://raw.githubusercontent.com/shaheershukur/Market-Web-Application/master/market-web-app-scr.JPG)
+![alt text](https://raw.githubusercontent.com/shaheershukur/Market-Web-Application/master/market-web-app-scr.jpg)
 
 >For the first run, do **npm install**
  inside **market/** and **market-server/** folders.
