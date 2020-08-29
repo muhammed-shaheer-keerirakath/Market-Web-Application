@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.error.mat-snack-bar-container{
+    background: #cc0000;
+    color: white;
+}
+
+.success.mat-snack-bar-container{
+    background: #00cc00;
+    color: white;
+}
