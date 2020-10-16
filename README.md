@@ -14,3 +14,4 @@ Reference project for the Youtube tutorial([https://www.youtube.com/playlist?lis
 - Part 3 : Express Server integration with Angular - https://youtu.be/dT1ID4q57fs 
 - Part 4 : Stylized Custom Notification in Angular - https://youtu.be/gO8rL5iXk-Y
 - Part 5 : Theming Angular UI - https://youtu.be/r6Ygw9L55zg
+- Part 6 : Progress Bar Loader + Interceptor - https://youtu.be/o12iI18l1wI
