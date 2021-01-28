@@ -15,3 +15,4 @@ Reference project for the Youtube tutorial([https://www.youtube.com/playlist?lis
 - Part 4 : Stylized Custom Notification in Angular - https://youtu.be/gO8rL5iXk-Y
 - Part 5 : Theming Angular UI - https://youtu.be/r6Ygw9L55zg
 - Part 6 : Progress Bar Loader + Interceptor - https://youtu.be/o12iI18l1wI
+- Part 7 : MongoDB integration for data storage - https://youtu.be/u76N3HFTBX8
